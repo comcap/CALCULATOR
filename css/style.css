@@ -1,0 +1,116 @@
+html, div, h1, h2, h3, h4, h5, h6, p {
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+}
+body{
+	background-color: #fff;
+
+}
+h1{
+	font-size: 36px;
+	font-family: "sukhumvitreg 1";
+}
+h2{
+	font-size: 24px;
+	font-family: "sukhumvitreg 1";
+}
+#gradient
+{
+  width: 100%;
+  height: 800px;
+  padding: 0px;
+  margin: 0px;
+}
+.dropdown-menu{
+	left: 42%;
+}
+.inputnum{
+	height: 32px;
+	border-radius: 5px;
+	text-align: center;
+	border: solid #ddd 1px;
+	background: transparent;
+	color: #fff;
+}
+select option {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #fff;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #fff;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #fff;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #fff;
+}
+.dropdown{
+	float: none;
+}
+.margin{
+	margin-top: 50px;
+}
+.marginag{
+	margin-top: 90px;
+}
+.textpadding{
+	padding-top: 6px;
+	color: #fff;
+}
+.box-from{
+	margin-top: 15%;
+	border: 1px solid #ddd;
+	border-radius: 20px;
+	height: 600px;
+	padding-top: 60px;
+}
+.box-from-api{
+	margin-top: 20%;
+	border: 1px solid #ddd;
+	border-radius: 20px;
+	height: 450px;
+	padding-top: 60px;
+}
+.fixbtn{
+	width: 100px;
+	height: 100px;
+	border-radius: 60px;
+	border: none;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff758c+0,ff7eb3+100 */
+	background: #ff758c; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ff758c 0%, #ff7eb3 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #ff758c 0%,#ff7eb3 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #ff758c 0%,#ff7eb3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff758c', endColorstr='#ff7eb3',GradientType=0 ); /* IE6-9 */
+
+	color: #fff;
+	font-weight: bold;
+}
+.marginbtn{
+	margin-top: 60px;
+}
+.text-result{
+	text-align: center;
+	color: #5A92AF;
+	font-size: 34px;
+}
+.text-h{
+	text-align: center;
+	color: #5A92AF;
+}
+.box-result{
+	border: 1px #9CD9DE solid;
+	border-radius: 10px;
+}
+.white{
+	color: #fff;
+}
+.refontsize{
+	padding-top: 6px;
+	font-size: 24px;
+}
